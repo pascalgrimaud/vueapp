@@ -1,0 +1,12 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2024-10-18T09:21:13.451171846Z",
+    "properties" : {
+      "projectName" : "vueapp",
+      "baseName" : "vueapp",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
