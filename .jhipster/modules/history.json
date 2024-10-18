@@ -8,5 +8,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2024-10-18T09:21:13.598533139Z",
+    "properties" : {
+      "projectName" : "vueapp",
+      "baseName" : "vueapp",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
